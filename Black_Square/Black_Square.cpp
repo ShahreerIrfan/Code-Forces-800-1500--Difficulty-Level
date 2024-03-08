@@ -26,5 +26,5 @@ void solve(){
 }
 int main(){
     solve();
-    // return 
+    // return
 }
