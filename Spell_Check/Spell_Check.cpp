@@ -9,8 +9,7 @@ void solve(string s){
     }
     else{
         cout<<"NO"<<endl;
-    }
-    
+    }  
 }
 int main(){
     int t;
