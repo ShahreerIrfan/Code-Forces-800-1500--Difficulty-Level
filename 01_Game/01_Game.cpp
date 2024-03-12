@@ -1,10 +1,5 @@
-#include <iostream>
-#include <vector>
-#include <queue>
-#include <algorithm>
-#include <string>
+#include<bits/stdc++.h>
 using namespace std;
-
 typedef long long ll;
 int main()
 {
