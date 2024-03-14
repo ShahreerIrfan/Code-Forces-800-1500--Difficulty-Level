@@ -1,0 +1,3 @@
+Concurrent process model
+
+The concurrent development approach, also known as concurrent engineering, enables a software team to incorporate iterative and concurrent aspects found in other process models. Concurrent modeling outlines a sequence of events that initiate transitions between states for various software engineering activities, actions, or tasks.
